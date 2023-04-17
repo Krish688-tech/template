@@ -1,0 +1,9 @@
+.title{
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid white;
+    background-color: grey;
+    color: wheat;
+}
